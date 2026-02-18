@@ -1,66 +1,255 @@
-<h2 align="center">Hi 👋, I'm Abhi Ghoghari</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi-GhoGhari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abhi-GhoGhari&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="mailto:abhighoghari8182@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/abhi-ghoghari-0346782b6/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+<!-- ===================================================== -->
+<!--                    ABHI GHOGHARI                      -->
+<!-- ===================================================== -->
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Abhi-GhoGhari/count.svg?"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Abhi%20Ghoghari&fontSize=60&color=0:0f2027,50:203a43,100:2c5364&animation=twinkling&fontColor=ffffff" />
+
+<h1>🚀 Flutter Developer | Creative App Builder | Future Software Engineer</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono+Code&size=28&duration=2500&pause=800&color=BE3D2A&center=true&vCenter=true&width=1000&lines=Turning+Ideas+Into+Apps();Clean+Code();Flutter+Architect+In+Making();Problem+Solver();Building+The+Future+With+Code()" />
+
 </div>
 
-###
+---
 
+<div align="center">
 
+![](https://komarev.com/ghpvc/?username=Abhi-GhoGhari&color=blueviolet&style=for-the-badge)
 
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abhi-GhoGhari&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+# 👨‍💻 About Me
+
+<!-- <div align="center"> -->
+
+```yaml
+Name: Abhi Ghoghari
+Education: TY-BCA
+Location: India
+Primary Stack: Flutter & Dart
+Architecture: MVC | GetX | Provider
+Database: SQLite | Firebase | MySQL
+Tools: Git | GitHub | VS Code | Android Studio
+Mission: Become a High-Level Software Engineer
+```
+
+<!-- </div> -->
+
+---
+
+# 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=dart,php,c,cpp" />
+
+### 📱 Mobile Development
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=firebase,mysql" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+
+### ⚙️ Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+
+</div>
+
+---
+
+# 📖 My Developer Journey
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E78B48&center=true&vCenter=true&width=800&lines=Started+With+Curiosity;Learned+Programming+Logic;Built+Real+Projects;Now+Engineering+Solutions" />
+
+</div>
+
+It all started with one simple curiosity:
+
+**"How are apps built?"**
+
+From writing basic C programs  
+To building structured apps in Flutter  
+
+From understanding logic  
+To designing complete user experiences  
+
+Now I don’t just build apps —  
+I engineer solutions.
+
+---
+
+# 🚀 Major Projects
+
+---
+
+## 🌦 Weather App (Sky Scrapper)
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/API-Integration-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Theme-Light%20%26%20Dark-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Storage-SharedPreferences-orange?style=for-the-badge"/>
+
+</div>
+
+✔ Live Weather API  
+✔ Location Saving  
+✔ Network Handling  
+✔ Smooth UI  
+
+---
+
+## 🌐 My Browser App (Mirror Wall)
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/WebView-Integrated-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bookmarks-Enabled-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Performance-Optimized-red?style=for-the-badge"/>
+
+</div>
+
+✔ Navigation Controls  
+✔ Home & Refresh  
+✔ Clean Architecture  
+
+---
+
+## 🏬 Clothing Store Website
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Auth-System-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Admin-CRUD-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-PHP%20%2B%20MySQL-blue?style=for-the-badge"/>
+
+</div>
+
+✔ User Login/Register  
+✔ Admin Product Panel  
+✔ Database Relations  
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhi-GhoGhari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-GhoGhari&layout=compact&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi-GhoGhari&theme=tokyonight" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-GhoGhari&theme=react-dark" />
+
+</div>
+
+---
+
+# 🧠 What Makes Me Different?
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7E5CAD&center=true&vCenter=true&width=800&lines=Clean+Architecture;Production+Thinking;UI%2FUX+Focused;Consistent+Learner;Problem+Solver" />
+
+</div>
+
+✔ Clean Architecture Focus  
+✔ Production-Level Thinking  
+✔ UI/UX Attention  
+✔ Continuous Learning  
+✔ Problem-Solving Mindset  
+
+---
+
+# 😎 Developer Humor Zone
+
+Why do programmers prefer dark mode?  
+Because light attracts bugs 🐛  
+
+Why did the developer go broke?  
+Because he used up all his cache 💸  
+
+Why do I love debugging?  
+Because every bug is a hidden lesson 🔍  
+
+---
+
+# 💬 Developer Philosophy
+
+> First solve the problem, then write the code.  
+> Consistency beats motivation.  
+> Good code works. Great code inspires.  
+> Discipline builds professionals.  
+
+---
+
+# 🎯 Future Goals
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/10%2B-Production%20Apps-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Flutter-Advanced-purple?style=for-the-badge"/>
+
+</div>
+
+- Build 10+ Production Level Applications  
+- Master Advanced Flutter Animations  
+- Contribute to Open Source  
+- Work in a Top Tech Company  
+- Launch My Own Tech Product  
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Abhi-GhoGhari">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Final Words
+
+I don’t just want to be a developer.  
+I want to build products people love.
+
+If you reached here — thank you 🚀  
+Let’s build something amazing together.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2c5364,100:0f2027&section=footer"/>
+
+</div>
