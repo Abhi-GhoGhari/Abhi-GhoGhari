@@ -24,8 +24,6 @@
 
 # 👨‍💻 About Me
 
-<!-- <div align="center"> -->
-
 ```yaml
 Name: Abhi Ghoghari
 Education: TY-BCA
@@ -36,8 +34,6 @@ Database: SQLite | Firebase | MySQL
 Tools: Git | GitHub | VS Code | Android Studio
 Mission: Become a High-Level Software Engineer
 ```
-
-<!-- </div> -->
 
 ---
 
@@ -87,17 +83,7 @@ I engineer solutions.
 
 # 🚀 Major Projects
 
----
-
 ## 🌦 Weather App (Sky Scrapper)
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/API-Integration-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Theme-Light%20%26%20Dark-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Storage-SharedPreferences-orange?style=for-the-badge"/>
-
-</div>
 
 ✔ Live Weather API  
 ✔ Location Saving  
@@ -108,14 +94,6 @@ I engineer solutions.
 
 ## 🌐 My Browser App (Mirror Wall)
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/WebView-Integrated-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bookmarks-Enabled-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Performance-Optimized-red?style=for-the-badge"/>
-
-</div>
-
 ✔ Navigation Controls  
 ✔ Home & Refresh  
 ✔ Clean Architecture  
@@ -123,14 +101,6 @@ I engineer solutions.
 ---
 
 ## 🏬 Clothing Store Website
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Auth-System-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Admin-CRUD-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-PHP%20%2B%20MySQL-blue?style=for-the-badge"/>
-
-</div>
 
 ✔ User Login/Register  
 ✔ Admin Product Panel  
@@ -162,32 +132,25 @@ I engineer solutions.
 
 ---
 
-# 🧠 What Makes Me Different?
+# 😂 Developer Joke
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7E5CAD&center=true&vCenter=true&width=800&lines=Clean+Architecture;Production+Thinking;UI%2FUX+Focused;Consistent+Learner;Problem+Solver" />
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
 </div>
+
+---
+
+# 🧠 What Makes Me Different?
+
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7E5CAD&center=true&vCenter=true&width=800&lines=Clean+Architecture;Production+Thinking;UI%2FUX+Focused;Consistent+Learner;Problem+Solver" /> </div>
 
 ✔ Clean Architecture Focus  
 ✔ Production-Level Thinking  
 ✔ UI/UX Attention  
 ✔ Continuous Learning  
 ✔ Problem-Solving Mindset  
-
----
-
-# 😎 Developer Humor Zone
-
-Why do programmers prefer dark mode?  
-Because light attracts bugs 🐛  
-
-Why did the developer go broke?  
-Because he used up all his cache 💸  
-
-Why do I love debugging?  
-Because every bug is a hidden lesson 🔍  
 
 ---
 
@@ -201,14 +164,6 @@ Because every bug is a hidden lesson 🔍
 ---
 
 # 🎯 Future Goals
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/10%2B-Production%20Apps-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Flutter-Advanced-purple?style=for-the-badge"/>
-
-</div>
 
 - Build 10+ Production Level Applications  
 - Master Advanced Flutter Animations  
